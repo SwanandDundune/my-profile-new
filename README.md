@@ -1,1 +1,1 @@
-# my-profile-new
+# MyProfile
